@@ -29,7 +29,14 @@ public class demoTest  {
         //  从cls代表的类信息中获取全部的方法信息
         Method[] ary = cls.getDeclaredMethods();
         for (Method method : ary) {
+            //  返回方法
             System.out.println(method);
+            //  返回方法名
+            System.out.println(method.getName());
+            //  返回  返回类型
+            System.out.println(method.getReturnType());
+            //  返回方法的注释
+            System.out.println(method.getAnnotations());
         }
 
     }

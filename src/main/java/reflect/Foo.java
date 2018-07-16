@@ -6,6 +6,11 @@ public class Foo {
         System.out.println("Hi");
     }
 
+    /**
+     *
+     * @param x
+     * @param y
+     */
     public void bu(int x, int y) {
         System.out.println(x + y);
     }
