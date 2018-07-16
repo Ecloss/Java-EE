@@ -3,10 +3,16 @@ package reflect;
 import org.apache.poi.util.SystemOutLogger;
 import org.junit.jupiter.api.Test;
 
+import java.lang.reflect.Method;
 import java.util.Scanner;
 
 public class demoTest  {
 
+    /**
+     * 方法：Class.forName     cls.newInstance     cls.getDeclaredMethods
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
         System.out.println("请输入类名");
@@ -18,6 +24,14 @@ public class demoTest  {
         //  动态创建对象
         Object obj = cls.newInstance();
         System.out.println("动态创建对象: " + obj);
+
+        //动态获取类的信息
+        //  从cls代表的类信息中获取全部的方法信息
+        Method[] ary = cls.getDeclaredMethods();
+        for (Method method : ary) {
+            System.out.println(method);
+        }
+
     }
 
 
