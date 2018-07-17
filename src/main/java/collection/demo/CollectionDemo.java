@@ -9,7 +9,7 @@ public class CollectionDemo {
         Collection coll = new ArrayList();
         methodDemo(coll);
         //System.out.println("---------------------------");
-        methodAllDemo();
+        //methodAllDemo();
     }
 
     /**
