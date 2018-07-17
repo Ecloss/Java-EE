@@ -21,6 +21,7 @@ public class DemoTest02 {
         //  3. 动态检查方法的注解信息
         for (Method method : methods) {
             System.out.println("methodName = " + method.getName());
+            //Test test = method.getAnnotation(Test.class);
             Test test = method.getAnnotation(Test.class);
             System.out.println(test);
             if (test != null) {
