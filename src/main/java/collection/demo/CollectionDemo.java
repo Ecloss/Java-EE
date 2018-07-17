@@ -8,8 +8,8 @@ public class CollectionDemo {
     public static void main(String[] args) {
         Collection coll = new ArrayList();
         methodDemo(coll);
-        System.out.println("---------------------------");
-        methodAllDemo();
+        //System.out.println("---------------------------");
+        //methodAllDemo();
     }
 
     /**
