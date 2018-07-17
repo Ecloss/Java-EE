@@ -15,4 +15,13 @@ public class Foo {
         System.out.println(x + y);
     }
 
+    private String demo(String name, int age) {
+        return name + "  " + age;
+    }
+
+
+    private int demo1(String name, int age) {
+        return age;
+    }
+
 }

@@ -36,7 +36,7 @@ public class demoTest  {
             //  返回  返回类型
             System.out.println(method.getReturnType());
             //  返回方法的注释
-            System.out.println(method.getAnnotations());
+            System.out.println("----" + method.getAnnotations());
         }
 
     }
