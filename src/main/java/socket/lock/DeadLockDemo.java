@@ -4,6 +4,7 @@ package socket.lock;
  * 死锁问题
  * 场景一：同步嵌套
  * 场景二：所有线程全部冻结，wait()
+ *
  * @author Ecloss
  */
 public class DeadLockDemo {
@@ -20,16 +21,17 @@ public class DeadLockDemo {
 
 }
 
-class SaleTicket implements Runnable{
+class SaleTicket implements Runnable {
     private int tickets = 100;
     /**
      * 将flag设为true
      */
     boolean flag = true;
     /**
-     *  将同步所需要的类设置为Object类型
+     * 将同步所需要的类设置为Object类型
      */
     Object obj = new Object();
+
     @Override
     public void run() {
         if (flag) {
@@ -41,7 +43,7 @@ class SaleTicket implements Runnable{
         }
     }
 
-    public synchronized  void sale( ) {
+    public synchronized void sale() {
         synchronized (obj) {
             if (tickets > 0) {
                 try {
