@@ -1,6 +1,10 @@
 package enumeration.demo1;
 
+@SuppressWarnings({"ALL", "AlibabaEnumConstantsMustHaveComment"})
 public enum WeekEnum02 {
+    /**
+     * 123
+     */
     SUNDAY("星期天", 1),
     MONDAY("星期一", 2),
     TUESDAY("星期二", 3),

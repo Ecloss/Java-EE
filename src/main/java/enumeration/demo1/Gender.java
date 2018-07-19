@@ -1,6 +1,9 @@
 package enumeration.demo1;
 
 public enum Gender implements GenderDescription {
+    /**
+     * 男人 女人
+     */
     MALE, FEMALE;
 
 
