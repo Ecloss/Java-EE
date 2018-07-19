@@ -58,7 +58,7 @@ public class Person implements Comparable<Person> {
             throw new ClassCastException("类型不匹配");
         }
         Person p = (Person)obj;
-        return this.name.equals(p.name) && this.age == p.age;
+        return this.name.equals(p.name) && this.age.equals(p.age);
 
 
     }

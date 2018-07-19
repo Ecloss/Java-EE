@@ -14,4 +14,14 @@ public class Worker extends Person {
     public String toString() {
         return "Worker [name=" + getName() + ". age=" + getAge() + "]";
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 }
