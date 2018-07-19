@@ -1,4 +1,4 @@
-package socket.producer_consumber;
+package socket.producer_consumber.res;
 
 
 /**

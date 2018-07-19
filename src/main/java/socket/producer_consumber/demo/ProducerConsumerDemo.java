@@ -1,4 +1,8 @@
-package socket.producer_consumber;
+package socket.producer_consumber.demo;
+
+import socket.producer_consumber.consumer.Consumer;
+import socket.producer_consumber.producer.Producer;
+import socket.producer_consumber.res.Res;
 
 /**
  * 测试 生产者-消费者 的联系
