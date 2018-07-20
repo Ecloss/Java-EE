@@ -36,7 +36,7 @@ class SaleTicket implements Runnable {
     public void run() {
         if (flag) {
             while (true) {
-                synchronized (obj) {    //
+                synchronized (obj) {
 
                 }
             }
