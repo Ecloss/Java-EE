@@ -26,7 +26,7 @@ public class FilenameFilterDemo2 {
         String[] names = dir.list(filter);
 
         for (String name : names) {
-
+            System.out.println(name);
         }
 
     }
