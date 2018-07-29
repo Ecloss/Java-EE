@@ -26,8 +26,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java-crazy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java-crazy/06_oop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-EE/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/extends" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
