@@ -11,8 +11,6 @@
         </webroots>
         <sourceRoots>
           <root url="file://$MODULE_DIR$/src/main/java" />
-          <root url="file://$MODULE_DIR$/src/main/java-crazy" />
-          <root url="file://$MODULE_DIR$/src/main/java-crazy/06_oop" />
           <root url="file://$MODULE_DIR$/src/main/resources" />
         </sourceRoots>
       </configuration>
@@ -28,6 +26,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-EE/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/extends" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/model" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
