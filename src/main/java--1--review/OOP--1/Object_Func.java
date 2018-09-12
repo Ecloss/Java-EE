@@ -6,6 +6,10 @@ import java.util.Objects;
  * @author 余修文
  * @date 2018/9/12 15:14
  */
+
+/**
+ * Object类的方法：equals, hashCode, toString
+ */
 class Person05 extends Object {
     private Integer age;
     private String name;
