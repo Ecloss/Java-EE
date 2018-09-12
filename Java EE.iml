@@ -10,10 +10,10 @@
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/Java-EE/src/main/java" />
           <root url="file://$MODULE_DIR$/src/main/java" />
-          <root url="file://$MODULE_DIR$/src/main/model" />
           <root url="file://$MODULE_DIR$/src/main/resources" />
+          <root url="file://$MODULE_DIR$/Java-EE/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/model" />
         </sourceRoots>
       </configuration>
     </facet>
@@ -28,6 +28,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-EE/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java--1--review" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java--1--review/OOP--1" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
