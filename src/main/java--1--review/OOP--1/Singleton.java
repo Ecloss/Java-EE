@@ -52,6 +52,7 @@ public class Singleton {
         SuperMan man1 = SuperMan.getInstance();
         SuperMan man2 = SuperMan.getInstance();
         man2.setName("英雄");
+
         System.out.println("man1.name = " + man1.getName());
         System.out.println("man2.name = " + man2.getName());
     }
