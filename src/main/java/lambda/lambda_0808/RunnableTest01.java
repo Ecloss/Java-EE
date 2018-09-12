@@ -43,6 +43,12 @@ public class RunnableTest01 {
         // 人生学习的三种境界：琢磨， 揣摩， 着魔
         // 王阳明写书法时，写了半天不见进步，于是，每落笔时在心中思考数十回
         // 对人心的把握。每次打仗都提现思考无数次：从知道行，从行道合，从合到一
+        // 事多巧，心茫茫然~
+        // 学贵专，学贵精，学贵正
+        // 事人多巧，心茫茫然
+        // 能力和眼光
+        // 坚实的基础，切实的手段，落实的执行
+        // 沉默是险：1.学习的沉默， 2.狡猾的沉默，3.沉默的贼，4.
         Arrays.sort(players, new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {

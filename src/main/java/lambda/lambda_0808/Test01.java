@@ -7,7 +7,7 @@ import java.util.List;
  * @author 余修文
  * @date 2018/8/8 21:27
  */
-public class Test01  {
+public class Test01 {
 
     public Integer add(Integer x, Integer y) {
         return x + y;
@@ -32,9 +32,9 @@ public class Test01  {
             list.add(i);
         }
         //Object o = new Object();
-        list.forEach( o -> {
+        list.forEach(o -> {
             System.out.println(o);
-        } );
+        });
 
         gaoDuanDaQiShangDangCi.run();
 

@@ -24,8 +24,6 @@ public class Test02 {
                 "Andy Murray","Tomas Berdych",
                 "Juan Martin Del Potro"};
         List<String> players = Arrays.asList(atp);
-
-
     }
 
 }
