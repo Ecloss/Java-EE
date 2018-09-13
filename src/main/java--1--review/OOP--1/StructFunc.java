@@ -1,6 +1,7 @@
 /**
  * 构造函数
  * 对象初始化时，会有一个默认的无参构造器，但是在新造构造器后，默认的构造器就被覆盖了
+ * 如果把构造函数变成私有化，那么就无法创建此对象，只能通过单例模式来构造
  *
  * @author 余修文
  * @date 2018/9/12 10:50
@@ -68,4 +69,41 @@ public class StructFunc {
         person01.show();
     }
 
+}
+
+/**
+ * 饿汉模式
+ */
+class Single06 {
+    private static final Single06 SINGLE_INSTANCE = new Single06();
+
+    private Single06() {
+
+    }
+
+    public static Single06 getSingleInstance() {
+        return SINGLE_INSTANCE;
+    }
+}
+
+/**
+ * 懒汉模式
+ */
+class Single07 {
+    private static Single07 SINGLE_INSTANCE = null;
+
+    private Single07() {
+
+    }
+
+    /**
+     * 静态变量可以被对象调用，也可以被类名调用。
+     * @return
+     */
+    public static Single07 getSingleInstance() {
+        if (SINGLE_INSTANCE == null) {
+            SINGLE_INSTANCE = new Single07();
+        }
+        return SINGLE_INSTANCE;
+    }
 }
