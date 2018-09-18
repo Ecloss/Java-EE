@@ -22,11 +22,10 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../Java-Crazy/pom.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Java-Crazy/src/main/webapp/WEB-INF/web.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Java-Crazy/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1011.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java--1--review/OOP--1/exception/Exception01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java" />
       <change beforePath="$PROJECT_DIR$/../Java-Design" afterPath="$PROJECT_DIR$/../Java-Design" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Java EE.iml" afterPath="$PROJECT_DIR$/Java EE.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,11 +89,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B1011.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="B1011.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1011.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1016.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1026.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -139,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/io/buffer/TransStreamDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/fileWriter/readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/io/fileReader/readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/io/fileReader/demo/FIleReaderDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/fileReader/demo/FileReaderDemo.java" />
@@ -190,6 +207,8 @@
         <option value="$PROJECT_DIR$/src/main/java--1--review/OOP--1/Inside_Annoy_Class02.java" />
         <option value="$PROJECT_DIR$/src/main/java--1--review/OOP--1/exception/Exception01.java" />
         <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1011.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java" />
       </list>
     </option>
   </component>
@@ -300,6 +319,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="PAT--Code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-EE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-EE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="PAT--Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -341,7 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.B1011">
+  <component name="RunManager" selected="Application.B1026">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -357,6 +384,44 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Basic.B1011" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java EE" />
+      <envs />
+    </configuration>
+    <configuration name="B1016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Basic.B1016" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java EE" />
+      <envs />
+    </configuration>
+    <configuration name="B1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Basic.B1026" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -390,34 +455,6 @@
     <configuration name="Object_Func" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Object_Func" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java EE" />
-      <envs />
-    </configuration>
-    <configuration name="Ploy_Func" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Ploy_Func" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java EE" />
-      <envs />
-    </configuration>
-    <configuration name="Ploy_Func01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Ploy_Func01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -504,19 +541,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Ploy_Func" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Ploy_Func01" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Object_Func" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Exception01" />
-      <item index="4" class="java.lang.String" itemvalue="Application.B1011" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Object_Func" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Exception01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.B1011" />
+      <item index="3" class="java.lang.String" itemvalue="Application.B1016" />
+      <item index="4" class="java.lang.String" itemvalue="Application.B1026" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.B1011" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Exception01" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Object_Func" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Ploy_Func01" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Ploy_Func" />
+        <item index="0" class="java.lang.String" itemvalue="Application.B1026" />
+        <item index="1" class="java.lang.String" itemvalue="Application.B1016" />
+        <item index="2" class="java.lang.String" itemvalue="Application.B1011" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Exception01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Object_Func" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +591,7 @@
       <workItem from="1533814378158" duration="7430000" />
       <workItem from="1536716794078" duration="16654000" />
       <workItem from="1536801274644" duration="6026000" />
-      <workItem from="1537242160120" duration="1150000" />
+      <workItem from="1537242160120" duration="3247000" />
     </task>
     <task id="LOCAL-00001" summary="java-ee">
       <created>1531883093310</created>
@@ -760,7 +797,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176271000" />
+    <option name="totallyTimeSpent" value="178368000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -773,6 +810,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -783,17 +821,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33748442" sideWeight="0.5064795" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33674777" sideWeight="0.49352053" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2246941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2246941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33802816" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19914803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19914803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32010242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -882,23 +920,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/CharStreamBufferDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="241">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/Demo01.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/MyBufferReader.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1254,6 +1275,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding />
         </state>
       </provider>
