@@ -22,10 +22,18 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../Java-Crazy/pom.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Java-Crazy/src/main/webapp/WEB-INF/web.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Java-Crazy/src/main/webapp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Advance/A1046.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Advance/A1065.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1009.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1010.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1018.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1042.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1046.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/PAT--Code/Main.java" />
       <change beforePath="$PROJECT_DIR$/../Java-Design" afterPath="$PROJECT_DIR$/../Java-Design" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Java EE.iml" afterPath="$PROJECT_DIR$/Java EE.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +90,7 @@
       <file leaf-file-name="Exception01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java--1--review/OOP--1/exception/Exception01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
+            <state relative-caret-position="777">
               <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
               <folding />
             </state>
@@ -93,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1011.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,17 +111,107 @@
         <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B1026.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="B1026.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="294">
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1046.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1046.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A1046.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Advance/A1046.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A1065.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Advance/A1065.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1010.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1010.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1002.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1009.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1009.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1018.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1018.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="882">
+              <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B1042.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1042.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="52" column="5" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="52" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -158,15 +256,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/io/fileReader/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/io/fileReader/demo/FIleReaderDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/fileReader/demo/FileReaderDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/fileReader/demo/SubTransStreamDemo01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/fileReader/demo/SubTransStreamDemo02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/buffer/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/io/buffer/CharStreamBufferDemo01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/buffer/MyBufferReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/buffer/MyBufferedReaderDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/demo/FileTest01.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/buffer/BufferReaderDemo01.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/buffer/InputStream01.java" />
@@ -209,6 +298,15 @@
         <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1011.java" />
         <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java" />
         <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1046.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1018.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1042.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Advance/A1046.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Advance/A1065.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1010.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1002.java" />
+        <option value="$PROJECT_DIR$/src/main/PAT--Code/Basic/B1009.java" />
       </list>
     </option>
   </component>
@@ -294,6 +392,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-EE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java EE" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -325,25 +435,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="PAT--Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Advance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-EE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-EE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="PAT--Code" type="462c0819:PsiDirectoryNode" />
               <item name="Basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Java-EE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Java EE" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -368,7 +474,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.B1026">
+  <component name="RunManager" selected="Application.B1009">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -376,14 +482,52 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="B1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="A1046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Advance.A1046" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java EE" />
+      <envs />
+    </configuration>
+    <configuration name="A1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Advance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Advance.A1065" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java EE" />
+      <envs />
+    </configuration>
+    <configuration name="B1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Basic.B1011" />
+      <option name="MAIN_CLASS_NAME" value="Basic.B1002" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -395,14 +539,14 @@
       <module name="Java EE" />
       <envs />
     </configuration>
-    <configuration name="B1016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="B1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Basic.B1016" />
+      <option name="MAIN_CLASS_NAME" value="Basic.B1009" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -414,47 +558,14 @@
       <module name="Java EE" />
       <envs />
     </configuration>
-    <configuration name="B1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="B1010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Basic.B1026" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java EE" />
-      <envs />
-    </configuration>
-    <configuration name="Exception01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="exception.Exception01" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java EE" />
-      <envs />
-    </configuration>
-    <configuration name="Object_Func" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Object_Func" />
+      <option name="MAIN_CLASS_NAME" value="Basic.B1010" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -541,19 +652,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Object_Func" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Exception01" />
-      <item index="2" class="java.lang.String" itemvalue="Application.B1011" />
-      <item index="3" class="java.lang.String" itemvalue="Application.B1016" />
-      <item index="4" class="java.lang.String" itemvalue="Application.B1026" />
+      <item index="0" class="java.lang.String" itemvalue="Application.A1046" />
+      <item index="1" class="java.lang.String" itemvalue="Application.A1065" />
+      <item index="2" class="java.lang.String" itemvalue="Application.B1010" />
+      <item index="3" class="java.lang.String" itemvalue="Application.B1002" />
+      <item index="4" class="java.lang.String" itemvalue="Application.B1009" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.B1026" />
-        <item index="1" class="java.lang.String" itemvalue="Application.B1016" />
-        <item index="2" class="java.lang.String" itemvalue="Application.B1011" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Exception01" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Object_Func" />
+        <item index="0" class="java.lang.String" itemvalue="Application.B1009" />
+        <item index="1" class="java.lang.String" itemvalue="Application.B1002" />
+        <item index="2" class="java.lang.String" itemvalue="Application.B1010" />
+        <item index="3" class="java.lang.String" itemvalue="Application.A1065" />
+        <item index="4" class="java.lang.String" itemvalue="Application.A1046" />
       </list>
     </recent_temporary>
   </component>
@@ -591,7 +702,9 @@
       <workItem from="1533814378158" duration="7430000" />
       <workItem from="1536716794078" duration="16654000" />
       <workItem from="1536801274644" duration="6026000" />
-      <workItem from="1537242160120" duration="3247000" />
+      <workItem from="1537242160120" duration="4694000" />
+      <workItem from="1537319712467" duration="4593000" />
+      <workItem from="1537403000651" duration="7494000" />
     </task>
     <task id="LOCAL-00001" summary="java-ee">
       <created>1531883093310</created>
@@ -797,7 +910,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178368000" />
+    <option name="totallyTimeSpent" value="191902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,16 +928,16 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25608194" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25586593" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25583982" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32004982" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33748442" sideWeight="0.5064795" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33674777" sideWeight="0.49352053" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2246941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2246941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33802816" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19914803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12673056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -920,66 +1033,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/Demo01.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/MyBufferReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/MyBufferedReaderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/demo/FileTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/demo/FileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/buffer/InputStreamDemo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/obejctstream/ObjectStreamDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/obejctstream/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1265,7 +1318,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java--1--review/OOP--1/exception/Exception01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
+        <state relative-caret-position="777">
           <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
           <folding />
         </state>
@@ -1274,7 +1327,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1011.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1282,15 +1335,87 @@
     <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1016.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1026.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="294">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="5" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1018.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1042.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1046.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Advance/A1046.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Advance/A1065.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1010.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/PAT--Code/Basic/B1009.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
