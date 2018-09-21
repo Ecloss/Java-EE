@@ -15,6 +15,7 @@
           <root url="file://$MODULE_DIR$/src/main/java--1--review" />
           <root url="file://$MODULE_DIR$/src/main/java--1--review/OOP--1" />
           <root url="file://$MODULE_DIR$/src/main/model" />
+          <root url="file://$MODULE_DIR$/src/main/PAT--Code" />
           <root url="file://$MODULE_DIR$/src/main/resources" />
         </sourceRoots>
       </configuration>
@@ -32,6 +33,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/model" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java--1--review" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java--1--review/OOP--1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/PAT--Code" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
