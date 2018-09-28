@@ -9,6 +9,7 @@ public class StringDemo01 {
     public static void main(String[] args) {
 
         String str = "abcd";
+        // 创建新的String对象，因此在常量池中是有hashCode和value值得， 因此与str的hashCode不同，但是值是相同的
         String str1 = new String("abcd");
 
         System.out.println(str == str1);

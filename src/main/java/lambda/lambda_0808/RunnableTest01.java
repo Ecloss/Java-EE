@@ -1,5 +1,8 @@
 package lambda.lambda_0808;
 
+import enumeration.demo.People;
+import org.junit.Test;
+
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -8,6 +11,45 @@ import java.util.Comparator;
  * @date 2018/8/8 22:48
  */
 public class RunnableTest01 {
+
+    @Test
+    public void demo01() {
+        // 使用匿名内部类的方式
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("执行一个多线程");
+            }
+        }).start();
+    }
+
+    @Test
+    public void demo02() {
+        new Thread(() -> System.out.println("Hello world--Lambda")).start();
+    }
+
+    @Test
+    public void demo03() {
+        Runnable rab = new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("Runnable 实现接口");
+            }
+        };
+        rab.run();
+    }
+
+    @Test
+    public void demo04() {
+        Runnable runa = () -> System.out.println("Lambda实现Runnable");
+        runa.run();
+    }
+
+    @Test
+    public void demo05() {
+        People[] peoples = People.values();
+
+    }
 
     public static void main(String[] args) {
 
@@ -20,7 +62,7 @@ public class RunnableTest01 {
         }).start();
 
         // 1.2 用Lambda 实现Thread
-        new Thread( () -> System.out.println("Hello world!--Lambda") ).start();
+        new Thread(() -> System.out.println("Hello world!--Lambda")).start();
 
         // 2.1 使用匿名内部类  --  实现
         Runnable rece1 = new Runnable() {
@@ -36,7 +78,7 @@ public class RunnableTest01 {
         rece2.run();
 
         System.out.println("--------------------");
-        String[ ] players = {"XiaoBai", "Yueel", "Ecloss", "Yufang", "Xiuwen"};
+        String[] players = {"XiaoBai", "Yueel", "Ecloss", "Yufang", "Xiuwen"};
 
         // 1.1 使用匿名内部类根据 name 排序players
         // 人生三大困惑：1. 欲望  2.情绪 3.习性

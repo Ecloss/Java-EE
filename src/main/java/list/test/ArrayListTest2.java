@@ -19,10 +19,12 @@ public class ArrayListTest2 {
         list.add("abc3");
         list.add("abc6");
 
-        System.out.println(list);
-        System.out.println("-------------------");
-        singleElement(list);
-        System.out.println(list);
+        list.forEach(str -> System.out.println(str));
+
+        //System.out.println(list);
+        //System.out.println("-------------------");
+        //singleElement(list);
+        //System.out.println(list);
 
     }
 

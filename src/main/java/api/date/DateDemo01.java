@@ -1,5 +1,7 @@
 package api.date;
 
+import org.junit.Test;
+
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -34,6 +36,15 @@ public class DateDemo01 {
         String strDate02 = dateFormat.format(date);
         System.out.println(strDate02);
 
+    }
+
+    @Test
+    public void demo01() {
+        DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+        Date date = new Date();
+        System.out.println(date);
+        String strDate = dateFormat.format(date);
+        System.out.println(strDate);
     }
 
 }
