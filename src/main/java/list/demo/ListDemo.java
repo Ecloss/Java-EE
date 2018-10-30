@@ -24,10 +24,13 @@ public class ListDemo {
 
         //  2. 插入元素
         list.add(1, "hehe");
+        list.add("hihi");
         System.out.println(list);
 
         //  3. 删除
+        // 删除索引为1的值
         list.remove(1);
+        // 删除值为 abc3 的值
         list.remove("abc3");
         System.out.println(list);
 

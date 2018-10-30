@@ -1,5 +1,8 @@
 package lambda.lambda_0808;
 
+
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,6 +11,29 @@ import java.util.List;
  * @date 2018/8/8 21:27
  */
 public class Test01 {
+    List<Integer> list = new ArrayList<Integer>();
+
+
+    @Test
+    public void demo01() {
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        list.add(4);
+        for(Integer i : list) {
+            System.out.println(i);
+        }
+    }
+
+    // lambda表达式输出
+    @Test
+    public void demo02() {
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        list.add(4);
+        list.forEach(integer -> System.out.println(integer));
+    }
 
     public Integer add(Integer x, Integer y) {
         return x + y;

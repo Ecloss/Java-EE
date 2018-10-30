@@ -1,7 +1,13 @@
 package api.string_stringBuffer;
 
+import org.junit.Test;
+
 /**
- * StringBuilder的四个方法append，insert，replace，reverse
+ * StringBuilder的四个方法：
+ * append--追加，
+ * insert--插入，
+ * replace--替换，
+ * reverse--反转
  *
  * @author Ecloss
  */
@@ -27,6 +33,18 @@ public class StringBuilderTest {
         System.out.println(sb);
         //  查看length和capacity的长度
         System.out.println("length = " + sb.length() + "  capacity = " + sb.capacity());
+    }
+
+    @Test
+    public void demo01() {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("Java");
+        stringBuilder.insert(0, "First");
+        stringBuilder.replace(0, 5, "Second ");
+        stringBuilder.reverse();
+        stringBuilder.indexOf("J");
+        System.out.println(stringBuilder);
+        System.out.println(stringBuilder.indexOf("J"));
     }
 
 }

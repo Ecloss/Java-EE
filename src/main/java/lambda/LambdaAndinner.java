@@ -1,13 +1,15 @@
 package lambda;
 
 /**
+ * Lambda方法最多只能有一个抽象方法
+ *
  * @author Ecloss
  */
 public class LambdaAndinner {
 
     @FunctionalInterface
     interface Displayable {
-        //  定义一个抽象方法和默认方法
+        //  定义一个抽象方法和默认方法,
         void display();
 
         default int add(int a, int b) {
