@@ -16,6 +16,8 @@
           <root url="file://$MODULE_DIR$/src/main/java--1--review/OOP--1" />
           <root url="file://$MODULE_DIR$/src/main/java--note" />
           <root url="file://$MODULE_DIR$/src/main/java--note/time-task" />
+          <root url="file://$MODULE_DIR$/src/main/java-8" />
+          <root url="file://$MODULE_DIR$/src/main/java-Collector" />
           <root url="file://$MODULE_DIR$/src/main/java-crazy" />
           <root url="file://$MODULE_DIR$/src/main/model" />
           <root url="file://$MODULE_DIR$/src/main/PAT--Code" />
@@ -40,6 +42,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java--note" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java-crazy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java--note/time-task" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java-8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java-Collector" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
