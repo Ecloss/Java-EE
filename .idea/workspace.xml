@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e0b923-bb14-4cc3-992d-b8a2b8af71da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ConnectionAll_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ConnectionAll_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_EE_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_EE_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alipay_api_k12_alipay_sdk_0_0_1_beta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java-8/lambda/stream/StreamDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java-8/lambda/stream/StreamDemo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/api/date/DateTimeFormatterDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/date/DateTimeFormatterDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Lambda_Reference/LambdaDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/Lambda_Reference/LambdaDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,11 +46,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="87">
+              <caret line="19" column="74" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="30" column="79" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="39" selection-start-line="39" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,6 +167,8 @@
         <option value="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile01.java" />
         <option value="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile02.java" />
         <option value="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile03.java" />
+        <option value="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile04.java" />
+        <option value="$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile05.java" />
       </list>
     </option>
   </component>
@@ -265,7 +263,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545660512374" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545665252312" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaSE" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -284,33 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestFile03">
-    <configuration name="TestFile01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="file_01.TestFile01" />
-      <module name="ConnectionAll" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="file_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFile02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="file_01.TestFile02" />
-      <module name="ConnectionAll" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="file_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestFile05.demo02">
     <configuration name="TestFile03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="file_01.TestFile03" />
       <module name="ConnectionAll" />
@@ -324,11 +296,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestFile04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file_01.TestFile04" />
+      <module name="ConnectionAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFile05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file_01.TestFile05" />
+      <module name="ConnectionAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFile05.demo01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConnectionAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="file_01" />
+      <option name="MAIN_CLASS_NAME" value="file_01.TestFile05" />
+      <option name="METHOD_NAME" value="demo01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFile05.demo02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ConnectionAll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="file_01" />
+      <option name="MAIN_CLASS_NAME" value="file_01.TestFile05" />
+      <option name="METHOD_NAME" value="demo02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestFile05.demo02" />
+        <item itemvalue="JUnit.TestFile05.demo01" />
+        <item itemvalue="Application.TestFile05" />
+        <item itemvalue="Application.TestFile04" />
         <item itemvalue="Application.TestFile03" />
-        <item itemvalue="Application.TestFile02" />
-        <item itemvalue="Application.TestFile01" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +382,28 @@
       <workItem from="1545219543354" duration="23000" />
       <workItem from="1545653492104" duration="2416000" />
       <workItem from="1545656538724" duration="61000" />
-      <workItem from="1545656625743" duration="3175000" />
+      <workItem from="1545656625743" duration="6867000" />
     </task>
+    <task id="LOCAL-00001" summary="12/24">
+      <created>1545660559825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545660559825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestFile05_demo01 - 2018.12.24 at 23h 26m 42s.xml">
+      <configuration name="TestFile05.demo01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFile05_demo02 - 2018.12.24 at 23h 26m 45s.xml">
+      <configuration name="TestFile05.demo02" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7896000" />
+    <option name="totallyTimeSpent" value="11588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -371,7 +419,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,6 +444,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/24" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java-8/lambda/stream/StreamDemo02.java">
@@ -527,8 +579,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="87">
+          <caret line="19" column="74" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="30" column="79" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java_02/01_IO/file_01/TestFile05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="39" selection-start-line="39" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

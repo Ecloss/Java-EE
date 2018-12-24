@@ -1,0 +1,75 @@
+ 五个核心类：
+	* 
+FIle
+	* 
+InputStream
+	* 
+OutPutStream
+	* 
+Reader
+	* 
+Writer
+
+
+一个核心接口：
+	* 
+Serializable
+
+
+
+一：File类
+File类是唯一一个与文件本身操作有关的类，但是不涉及d到文件的内容。
+如果想要使用FIle类，那么首先就需要通过它提供的构造方法定义一个操作文件的路径
+	* 
+设置完整路径：public File(String pathname);
+
+		* 
+大部分情况下使用此类操作
+	* 
+设置父路径与子文件路径：public File(File parent, String child);
+
+
+
+范例：操作文件
+	* 
+创建文件：public Boolean createNewFile() throws IOException;
+
+		* 
+为什么需要抛出异常：
+
+			* 
+如果目录不能访问
+			* 
+如果文件重名，或者是文件名称错误
+
+
+
+public class TestFile01 {
+
+    public static void main(String[] args) throws Exception {
+        File file = new File("E:\\003_Code\\JAVA\\Java-EE\\src\\main\\file\\FileText01.txt");
+        if (file.exists()) {
+            /** 如果文件存在, 那么删除该文件 */
+            file.delete();
+        } else {
+            /** 文件不存在，进行文件的创建 */
+            System.out.println(file.createNewFile());
+        }
+    }
+
+}
+
+问题：在Java.io 操作之中，会出现延迟情况，因为现在的问题是Java程序是同构JVM间接的调用操作系统的文件处理函数进行的文件处理操作，所以会出现延迟情况。
+
+以上已经实现了文件的创建操作，但是这个时候是直接创建在了跟路径下，下面来创建含有子目录的文件
+走到父路径：public File geParentFile(); 
+如果父路径不存在：那么创建父路径
+file.mkdir();        创建一级目录
+file.mkdirs();       创建多级目录  
+
+在FIle类里面还提供有一系列的取得文件信息内容的操作功能
+
+
+
+
+

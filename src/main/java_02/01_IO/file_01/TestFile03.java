@@ -32,6 +32,9 @@ public class TestFile03 {
         Date date = new Date(longTime);
         String str = simpleDateFormat.format(date);
         System.out.println("上一次修改时间是：" + str);
+
+        /** 获取文件的路径 */
+        System.out.println("文件的路径：" + file.getPath());
     }
 
 }
