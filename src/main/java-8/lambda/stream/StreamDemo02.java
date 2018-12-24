@@ -159,4 +159,10 @@ public class StreamDemo02 {
         OptionalInt optionalInt1 = intStream3.reduce((a, b) -> a < b ? a : b);
     }
 
+    @Test
+    public void demo16() {
+
+    }
+
+
 }
