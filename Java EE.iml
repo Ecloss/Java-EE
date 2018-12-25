@@ -12,6 +12,15 @@
         <sourceRoots>
           <root url="file://$MODULE_DIR$/Java-EE/src/main/java" />
           <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/java--1--review" />
+          <root url="file://$MODULE_DIR$/src/main/java--1--review/OOP--1" />
+          <root url="file://$MODULE_DIR$/src/main/java--note" />
+          <root url="file://$MODULE_DIR$/src/main/java--note/time-task" />
+          <root url="file://$MODULE_DIR$/src/main/java-8" />
+          <root url="file://$MODULE_DIR$/src/main/java-Collector" />
+          <root url="file://$MODULE_DIR$/src/main/java-crazy" />
+          <root url="file://$MODULE_DIR$/src/main/model" />
+          <root url="file://$MODULE_DIR$/src/main/PAT--Code" />
           <root url="file://$MODULE_DIR$/src/main/resources" />
         </sourceRoots>
       </configuration>
@@ -26,6 +35,15 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-EE/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java--1--review" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java--1--review/OOP--1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/PAT--Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java--note" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java-crazy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java--note/time-task" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java-8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java-Collector" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -41,5 +59,7 @@
     <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Maven: com.alipay.api:k12-alipay-sdk:0.0.1-beta" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.9.9" level="project" />
   </component>
 </module>

@@ -10,6 +10,9 @@ public class EnumDemo {
         Day day = Day.FRIDAY;
         //System.out.println(day3);
 
+        System.out.println(People.MAN.getContent() + "----" + People.MAN.getValue());
+        System.out.println(People.WOMAN.getContent() + "----" + People.WOMAN.getValue());
+
     }
 
 }

@@ -33,8 +33,8 @@ public class TestException {
 
 class MyException extends Exception {
     String message; //定义String类型变量
-    public MyException(String ErrorMessgr) {
-        message = ErrorMessgr;
+    public MyException(String errorMessgr) {
+        message = errorMessgr;
     }
 
     //  覆盖getMessage( ) 方法

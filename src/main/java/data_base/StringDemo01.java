@@ -2,9 +2,14 @@ package data_base;
 
 import org.junit.Test;
 
+<<<<<<< HEAD
 import java.math.BigDecimal;
 import java.util.*;
 import java.util.stream.Collectors;
+=======
+import java.util.ArrayList;
+import java.util.List;
+>>>>>>> d5b4887d236de5e8d04de6a8b009ec7c82f6bdf1
 
 /**
  * @author 余修文
@@ -84,6 +89,7 @@ public class StringDemo01 {
         for(int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
         }
+<<<<<<< HEAD
 
     }
 
@@ -109,6 +115,8 @@ public class StringDemo01 {
         System.out.println(str +"\n");
         System.out.println(str.substring(0, 8) + str.substring(9, 13) + str.substring(19, 23) + str.substring(24));
 
+=======
+>>>>>>> d5b4887d236de5e8d04de6a8b009ec7c82f6bdf1
     }
 
 
