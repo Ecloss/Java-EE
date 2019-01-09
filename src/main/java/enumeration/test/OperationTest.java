@@ -1,7 +1,7 @@
 package enumeration.test;
 
 import enumeration.demo1.Operation;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class OperationTest {
 

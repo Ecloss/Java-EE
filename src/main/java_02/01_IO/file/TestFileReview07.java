@@ -13,7 +13,7 @@ import java.util.Date;
  * @author 余修文
  * @date 2018/12/25 10:04
  */
-public class TestFile07 {
+public class TestFileReview07 {
 
     /**
      * File 的方法

@@ -1,9 +1,6 @@
 package socket.demo;
 
-<<<<<<< HEAD
 
-=======
->>>>>>> d5b4887d236de5e8d04de6a8b009ec7c82f6bdf1
 /**
  * @author Ecloss
  */
@@ -30,11 +27,7 @@ class SaleTicket1 implements Runnable {
 
 public class TicketDemo3 {
     public static void main(String[] args) {
-<<<<<<< HEAD
         SaleTicket1 t = new SaleTicket1();
-=======
-        SaleTicket t = new  SaleTicket();
->>>>>>> d5b4887d236de5e8d04de6a8b009ec7c82f6bdf1
         Thread t1 = new Thread(t);
         Thread t2 = new Thread(t);
         Thread t3 = new Thread(t);

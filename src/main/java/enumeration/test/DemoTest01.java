@@ -3,7 +3,7 @@ package enumeration.test;
 import enumeration.demo1.WeekEnum;
 import enumeration.demo1.WeekEnum02;
 import enumeration.demo1.WeenEnum;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class DemoTest01 {
 
