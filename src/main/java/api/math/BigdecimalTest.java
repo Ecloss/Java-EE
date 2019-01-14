@@ -10,7 +10,7 @@ import java.math.BigDecimal;
  *
  * @author Ecloss
  */
-public class  BigdecimalTest {
+public class BigdecimalTest {
 
     public static void main(String[] args) {
         BigDecimal f1 = new BigDecimal("1234.12");
@@ -51,6 +51,66 @@ public class  BigdecimalTest {
         BigDecimal big1 = new BigDecimal("1234.12");
         double d1 = big1.doubleValue();
         System.out.println(d1);
+    }
+
+    /**
+     * int 转 Bigdecimal
+     */
+    @Test
+    public void demo04() {
+        int a = 101;
+        BigDecimal big = new BigDecimal(a);
+        System.out.println(big + "的数据类型是: " + big.getClass().getName());
+    }
+
+    /**
+     * BigDecimal 转 int
+     */
+    @Test
+    public void demo05() {
+        BigDecimal big = new BigDecimal(102);
+        int a = big.intValue() + 1;
+        System.out.println(a);
+    }
+
+    /**
+     * long 转 BigDecimal
+     */
+    @Test
+    public void demo06() {
+        long a = 104;
+        BigDecimal big = new BigDecimal(a);
+        System.out.println(big + "的数据类型是：" + big.getClass().getName());
+    }
+
+    /**
+     * Bigdecimal 转 long
+     */
+    @Test
+    public void demo07() {
+        BigDecimal big = new BigDecimal(105);
+        Long a = big.longValue();
+        System.out.println(a + "的数据类型是：" + a.getClass().getName());
+    }
+
+    /**
+     * double 转 BigDecimal
+     */
+    @Test
+    public void demo08() {
+        double a = 106.10;
+        BigDecimal big = new BigDecimal(Double.toString(a));
+        System.out.println(big + "的数据类型是：" + big.getClass().getName());
+    }
+
+    /**
+     * Bigdecimal 转 double
+     */
+    @Test
+    public void demo09() {
+        BigDecimal big = new BigDecimal(107);
+        double d = big.doubleValue();
+        System.out.println(d);
     }
 
 }
