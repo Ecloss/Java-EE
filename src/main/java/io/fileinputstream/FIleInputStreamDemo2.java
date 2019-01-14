@@ -14,13 +14,11 @@ public class FIleInputStreamDemo2 {
     private static final int DEFAULT_SIZE = 1024 * 1024 * 2;
 
     public static void main(String args[]) {
-
         //  演示第二种读取方式，read(byte[]);  -->
         File file = new File("F:\\Workspace\\file\\fos.txt");
         if (!file.exists()) {
             throw new RuntimeException("要读取的文件不存在");
         }
-
         FileInputStream fis = null;
         try {
             fis = new FileInputStream(file);
@@ -43,7 +41,6 @@ public class FIleInputStreamDemo2 {
                 }
             }
         }
-
     }
 
 }

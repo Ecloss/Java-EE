@@ -2,6 +2,9 @@ package data_base;
 
 import org.junit.Test;
 
+import java.math.BigDecimal;
+import java.util.*;
+import java.util.stream.Collectors;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -83,6 +86,31 @@ public class StringDemo01 {
         for(int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
         }
+
+    }
+
+    @Test
+    public void demo05() {
+        Integer a = null;
+        final Integer count = 1;
+        System.out.println(count.equals(a));
+    }
+
+    @Test
+    public  void demo06() {
+        BigDecimal num1 = new BigDecimal(5555);
+        BigDecimal div = new BigDecimal(100);
+        BigDecimal num2 = num1.divide(div);
+        System.out.println(num2);
+
+    }
+
+    @Test
+    public void demo07() {
+        String str = UUID.randomUUID().toString();
+        System.out.println(str +"\n");
+        System.out.println(str.substring(0, 8) + str.substring(9, 13) + str.substring(19, 23) + str.substring(24));
+
     }
 
 

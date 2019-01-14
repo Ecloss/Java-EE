@@ -1,5 +1,6 @@
 package socket.demo;
 
+
 /**
  * @author Ecloss
  */
@@ -26,7 +27,7 @@ class SaleTicket1 implements Runnable {
 
 public class TicketDemo3 {
     public static void main(String[] args) {
-        SaleTicket t = new  SaleTicket();
+        SaleTicket1 t = new SaleTicket1();
         Thread t1 = new Thread(t);
         Thread t2 = new Thread(t);
         Thread t3 = new Thread(t);

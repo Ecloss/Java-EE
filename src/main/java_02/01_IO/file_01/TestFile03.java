@@ -2,8 +2,7 @@ package file_01;
 
 import org.junit.Test;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -35,6 +34,19 @@ public class TestFile03 {
 
         /** 获取文件的路径 */
         System.out.println("文件的路径：" + file.getPath());
+    }
+
+    @Test
+    public void demo01() throws IOException {
+        File file = new File("E:\\003_Code\\JAVA\\Java-EE\\src\\main\\file\\FileText03.txt");
+        OutputStream outputStream = new FileOutputStream(file);
+        outputStream.write("我喜欢你，是我独家的记忆".getBytes("UTF-8"));
+        outputStream.close();
+    }
+
+    @Test
+    public void demo02() {
+        System.getProperties().list(System.out);
     }
 
 }
